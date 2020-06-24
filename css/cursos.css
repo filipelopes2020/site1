@@ -1,5 +1,10 @@
 body {
 	background-color: coral;
+	color: red;
+}
+
+hr {
+	color: blue;
 }
 
 h2 {
