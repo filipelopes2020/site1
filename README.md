@@ -1,3 +1,4 @@
 # Site dos Cursos 
 
-*Este é o meu projecto* para 'apresentar' os meus cursos 
+Este projecto foi usado como treino no curso *Git e Github - Básico e Intermediário*
+Foi um ##EXCELENTE## curso! **Gostei mesmo muito**
